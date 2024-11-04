@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "The Importance of Penetration Testing",
+        "author": "Ajay Singh",
+        "date": "2024-10-15",
+        "content": "Penetration Testing is a critical element of modern cybersecurity..."
+    },
+    {
+        "id": 2,
+        "title": "Best Practices for Web Application Security",
+        "author": "Ajay Singh",
+        "date": "2024-09-30",
+        "content": "Web application security is a top priority in today's digital age..."
+    },
+    {
+        "id": 3,
+        "title": "Cybersecurity Trends for 2024",
+        "author": "Ajay Singh",
+        "date": "2024-08-25",
+        "content": "In 2024, we are seeing new trends and challenges in the field of cybersecurity..."
+    }
+]
